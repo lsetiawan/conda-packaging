@@ -1,0 +1,11 @@
+[project]
+name = "conda-packaging"
+version = "0.1.0"
+description = "Conda packaging project"
+authors = ["Don Setiawan"]
+channels = ["conda-forge"]
+platforms = ["osx-arm64"]
+
+[tasks]
+
+[dependencies]

@@ -1,0 +1,3 @@
+[submodule "staged-recipes"]
+	path = staged-recipes
+	url = https://github.com/lsetiawan/staged-recipes.git
