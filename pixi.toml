@@ -9,3 +9,4 @@ platforms = ["osx-arm64"]
 [tasks]
 
 [dependencies]
+conda-build = ">=24.5.1,<24.6"
